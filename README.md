@@ -1,5 +1,5 @@
-# Predictive Modellign for Patient Re admission - Long Stay Prediction
-Predictive Modelling for Patient Readmission by extracting extragranularity data from clinical notes
+# Predictive Modelling for Patient Re admission - Long Stay Prediction
+Predictive Modelling for Patient Readmission by extraction and analysis of High-granularity data from notes.
 This project performs analysis on clinical notes data.
 
 You can find the code and dataset on GitHub: [GitHub Repository Link](https://github.com/Jyotheekiran/Patient-Readmission/)
